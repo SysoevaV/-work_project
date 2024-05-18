@@ -1,2 +1,0 @@
-yarusski
- Project information
