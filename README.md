@@ -1,2 +1,1 @@
-Hello, world!
- Additional Information
+Hello, Git! How are you?
